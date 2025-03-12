@@ -39,4 +39,18 @@ public class Gym{
 
     }
 }
+//OUTPUT//
+/*
+Enter number of members: 
+1
+Enter your name: 
+KRISH
+Enter your age:
+20
+Enter your membership status : 
+TRUE
+Enter duration : 
+1
 
+1000
+*/
