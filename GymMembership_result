@@ -1,0 +1,12 @@
+Welcome to the Gym Membership Management System!
+Enter member name: Krish
+Enter member age: 20
+Is the membership active? (true/false): true
+Enter membership duration (in months): 2
+
+Member Details:
+Name: Krish
+Age: 20
+Membership Status: Active
+Membership Duration: 2 months
+Membership Fee: $100.0
