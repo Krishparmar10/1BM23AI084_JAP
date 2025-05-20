@@ -1,0 +1,8 @@
+Enter a string: Java123
+Enter a string to append:Test
+Capacity of StringBuffer object sb1:16
+Capacity of StringBuffer object sb2:21
+Enter a string: Java123
+Reversed string in uppercase:321AVAJ
+Enter a string to append:Test
+String after appending:321avaJTest
