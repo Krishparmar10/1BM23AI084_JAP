@@ -1,0 +1,15 @@
+The value of intValue is 5
+The value of intObj (after autoboxing) is 5
+The value of intUnboxed (after unboxing) is 5
+
+The value of floatValue is 9.76
+The value of floatObj (after autoboxing) is 9.76
+The value of floatUnboxed (after unboxing) is 9.76
+
+The value of byteValue (byte) is 10
+The value of byteObj (after autoboxing) is 10
+The value of byteUnboxed (after unboxing) is 10
+
+The value of charValue (char) is A
+The value of charObj (after autoboxing) is A
+The value of charUnboxed (after unboxing) is A
